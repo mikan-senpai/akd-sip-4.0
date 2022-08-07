@@ -53,7 +53,7 @@
         android:allowBackup="false"
         android:enableOnBackInvokedCallback="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="${appLabel}"
+        android:label="AKD Phone"
         android:localeConfig="@xml/locales_config"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:extractNativeLibs="${extractNativeLibs}"
